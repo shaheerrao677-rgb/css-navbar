@@ -1,8 +1,9 @@
 
 .navbar {
-    background-color: #333;
+    background-color:rgb(27, 24, 24);
     padding: 0;
     margin: 0;
+
 }
 
 .navbar ul {
@@ -24,19 +25,25 @@
 }
 
 .navbar ul li a:hover {
-    background-color: #575757;
+    background-color: #faf6f6;
 }
 
-.header {
-    background-color: #f2f2f2;
+header {
+    background-color: #dcd7d7;
+    margin: auto;
     padding: 40px;
 }
 
-.header h1 {
+ h1 {
     font-size: 32px;
 }
 
-.header p {
+ p {
     font-size: 18px;
 }
+body{
+    padding-left: 90px;
+    padding-right: 90px;
+    
 
+}
